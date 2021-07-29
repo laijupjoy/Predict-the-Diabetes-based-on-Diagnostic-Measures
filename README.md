@@ -13,4 +13,5 @@ Building a classification model and predict the Diabetes based on given diagnost
 ![Distribution of Dataset SECOND](vif.png)
 
 # AUC
-![AUC1](auc logistic.png)
+![AUC1](logistic.png)
+![AUC2](naive.png)
