@@ -14,6 +14,6 @@ Building a classification model and predict the Diabetes based on given diagnost
 
 
 # AUC
-![AUC](naive.png)
+![AU](naive.png)
 #   
-![AUC second](logistic.png)
+![AU_second](logistic.png)
