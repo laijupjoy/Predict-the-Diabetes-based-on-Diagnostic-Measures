@@ -10,4 +10,7 @@ Building a classification model and predict the Diabetes based on given diagnost
 # Correlations of Features
 ![Correlations of Features](correlation.png)
 #   
-![Distribution of Dataset SECOND](naive.png)
+![Distribution of Dataset SECOND](vif.png)
+
+# AUC
+![Distribution of Dataset](auc logistic.png)
