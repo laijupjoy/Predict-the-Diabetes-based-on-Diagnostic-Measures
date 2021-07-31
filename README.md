@@ -12,6 +12,6 @@ Building a classification model and predict the Diabetes based on given diagnost
 #   
 ![Distribution of Dataset SECOND](vif.png)
 
-# Area Under Curve 
+# Area Under Curve (AUC)
 ![AUC1](logistic.png)
 ![AUC2](naive.png)
