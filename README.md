@@ -1,4 +1,4 @@
-# Predict the Diabetes based on diagnostic 
+# Predict the Diabetes based on diagnostic measures
 Building a classification model and predict the Diabetes based on given diagnostic measures.<br>
 
 # Box Plot Visualization of Dataset
